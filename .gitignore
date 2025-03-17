@@ -1,6 +1,7 @@
 # backend
 node_modules/
 .env
+docker-compose.yml
 
 passphrase
 passphrase.pub

@@ -1,0 +1,14 @@
+Dummy Employee:
+
+john.doe@email.com	John@123
+alice.smith@email.com	Alice@456
+bob.jones@email.com	Bob@78910
+emma.brown@email.com	Emma@111
+michael.lee@email.com	Mike@222
+sarah.wilson@email.com	Sarah@333
+david.clark@email.com	David@444
+olivia.martin@email.com	Olivia@555
+daniel.white@email.com	Daniel@666
+sophia.moore@email.com	Sophia@777
+
+Satendra@gmail.com      Abc@1234
